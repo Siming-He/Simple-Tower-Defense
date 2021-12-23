@@ -1,6 +1,9 @@
 # Simple-Tower-Defense
 
 ## Demo 
+![](https://raw.githubusercontent.com/Siming-He/Simple-Tower-Defense/main/assets/defense1.gif)
+![](https://raw.githubusercontent.com/Siming-He/Simple-Tower-Defense/main/assets/defense2.gif)
+![](https://raw.githubusercontent.com/Siming-He/Simple-Tower-Defense/main/assets/defense3.gif)
 
 
 ## Code Details
